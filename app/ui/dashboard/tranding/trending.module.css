@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+    flex:1;
+    background-color: transparent;
+    border:2px solid #e5e1de;
+    height: 51vh;
+    width:100%;
+    gap:10px;
+}
+
+.container h2{
+    font-size:20px;
+    font-weight: 700;
+}
